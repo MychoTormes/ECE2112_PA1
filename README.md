@@ -5,6 +5,8 @@ in alphabetical order.
 
 The function that I created:
 
+
+# Function
 def alphabet_soup(n):
 
     # sorting letter alphabetically
@@ -23,6 +25,8 @@ as a string, replace the words smile, grin, sad and mad with their corresponding
 
 The function that I created:
 
+
+# Function
 def emoticon(n):
 
     # verity the specific words to make into emoticons
@@ -61,6 +65,7 @@ variables.
 
 The fuction that I created:
 
+# Function
 def writeyourcodehere(n):
 
        # using sequence containers indexing
