@@ -1,12 +1,16 @@
 # ECE2112_PA1: INTRODUCTION TO PYTHON PROGRAMMING
 
-ALPHABET SOUP PROBLEM: Create a function that takes a string and returns a string with its letters
+
+## ALPHABET SOUP PROBLEM
+Create a function that takes a string and returns a string with its letters
 in alphabetical order.
 
-The function that I created:
+Example: 
+alphabet_soup(“hello”) ➞ ehllo
 
+alphabet_soup(“hacker”) ➞ acehkr
 
-# Function
+## Background
 def alphabet_soup(n):
 
     # sorting letter alphabetically
