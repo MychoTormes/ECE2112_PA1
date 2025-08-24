@@ -18,7 +18,7 @@ The Steps:
 
        def alphabet_soup(n)
 
-3) Sorting letter alphabetically
+3) Sort the letter alphabetically
     
         str = sorted(n)
     
@@ -50,11 +50,11 @@ emotify(“I am mad”) ➞ I am >:(
 ## Background
 The steps:
 
-1) Define emotify:
+1) Define emoticon:
    
          def emoticon(n)
 
-2) Verity the specific words to make into emoticons
+2) Verify the specific words to make into emoticons
     
          z = "smile" in n
     
@@ -64,7 +64,7 @@ The steps:
     
          w = "mad" in n
     
-3) Replacing words to emoticons
+3) Use replace() to replacing words to emoticons
     
          if z:
     
@@ -110,13 +110,27 @@ middle: [2,3,4,5]
 last: 6
 
 ## Background
-def writeyourcodehere(n):
+The steps:
 
-       # using sequence containers indexing
+1) Defiine writeyourcodehere
+   
+        def writeyourcodehere(n)
+
+3) Use the sequence containers indexing to identify the first, middle, and last
        
-       print("First:", n[0])
+        print("First:", n[0])
        
-       print("Middle:", n[1:-1])
+        print("Middle:", n[1:-1])
        
-       print("Last:", n[-1])
+        print("Last:", n[-1])
        
+### Files
+All the codes are done in this file.
+
+        Unpacking List.ipynb
+
+### Reference
+
+        Python Cheat Sheet.pdf
+
+### All of the answers for the Programming Assignment are made by Mycho Tormes
