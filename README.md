@@ -11,20 +11,29 @@ alphabet_soup(“hello”) ➞ ehllo
 alphabet_soup(“hacker”) ➞ acehkr
 
 ## Background
-def alphabet_soup(n):
+The Steps:
 
-    # sorting letter alphabetically
-    
-    str = sorted(n)
-    
-    # join letters togetter into a word 
-    
-    z = ''.join(str)
-    
-    return z
-    
+1) Define alphabet_soup:
 
-EMOTICON PROBLEM: Create a function that changes specific words into emoticons. Given a sentence
+       def alphabet_soup(n)
+
+3) Sorting letter alphabetically
+    
+        str = sorted(n)
+    
+4) Join letters togetter into a word 
+    
+         z = ''.join(str)
+    
+         return z
+
+# Files
+All the codes are done in this file.
+
+         
+
+## EMOTICON PROBLEM: 
+Create a function that changes specific words into emoticons. Given a sentence
 as a string, replace the words smile, grin, sad and mad with their corresponding emoticon:
 
 The function that I created:
