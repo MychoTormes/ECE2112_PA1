@@ -27,10 +27,10 @@ The Steps:
     
          return z
 
-# Files
+### Files
 All the codes are done in this file.
 
-         
+         alphabetsoup.ipynb
 
 ## EMOTICON PROBLEM: 
 Create a function that changes specific words into emoticons. Given a sentence
