@@ -1,7 +1,7 @@
 # ECE2112_PA1: INTRODUCTION TO PYTHON PROGRAMMING
 
 
-## ALPHABET SOUP PROBLEM
+## 💻 ALPHABET SOUP PROBLEM
 Create a function that takes a string and returns a string with its letters
 in alphabetical order.
 
@@ -11,7 +11,7 @@ alphabet_soup(“hello”) ➞ ehllo
 
 alphabet_soup(“hacker”) ➞ acehkr
 
-## Background
+## 🟢 Background
 The Steps:
 
 1) Define alphabet_soup:
@@ -28,16 +28,16 @@ The Steps:
     
          return z
 
-### Files
+### 📌 Files
 All the codes are done in this file.
 
         AlphabetSoup.ipynb
           
-### Reference
+### 📍 Reference
 
         Python Cheat Sheet.pdf
 
-## EMOTICON PROBLEM: 
+## 💻 EMOTICON PROBLEM: 
 Create a function that changes specific words into emoticons. Given a sentence
 as a string, replace the words smile, grin, sad and mad with their corresponding emoticon:
 
@@ -47,7 +47,7 @@ emotify(“Make me smile”) ➞ Make me :)
 
 emotify(“I am mad”) ➞ I am >:(
 
-## Background
+## 🟢 Background
 The steps:
 
 1) Define emoticon:
@@ -83,17 +83,17 @@ The steps:
                 a = n.replace("mad", ">:(")
                 print(a)
         
-### Files
+### 📌 Files
 All the codes are done in this file.
 
         Emonticon.ipynb
 
-### Reference
+### 📍 Reference
 
         Python Cheat Sheet.pdf
 
 
-## UNPACKING LIST PROBLEM: 
+## 💻 UNPACKING LIST PROBLEM: 
 Unpack the list writeyourcodehere into three variables, being first,
 middle, and last, with middle being everything in between the first and last element. Then print all three
 variables.
@@ -109,7 +109,7 @@ middle: [2,3,4,5]
 
 last: 6
 
-## Background
+## 🟢 Background
 The steps:
 
 1) Defiine writeyourcodehere
@@ -124,12 +124,12 @@ The steps:
        
         print("Last:", n[-1])
        
-### Files
+### 📌 Files
 All the codes are done in this file.
 
         Unpacking List.ipynb
 
-### Reference
+### 📍 Reference
 
         Python Cheat Sheet.pdf
 
