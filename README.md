@@ -86,7 +86,7 @@ The steps:
 ### 📌 Files
 All the codes are done in this file.
 
-        Emonticon.ipynb
+[Emonticon.ipynb](https://github.com/MychoTormes/ECE2112_PA1/blob/main/Emoticon.ipynb)
 
 ### 📍 Reference
 
