@@ -134,3 +134,6 @@ All the codes are done in this file.
         Python Cheat Sheet.pdf
 
 ### All of the answers for the Programming Assignment are made by Mycho Tormes
+
+Github Link to PA1:
+[PA1 - Tormes, Mycho](https://github.com/MychoTormes/ECE2112_PA1)
