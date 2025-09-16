@@ -35,7 +35,7 @@ All the codes are done in this file.
           
 ### 📍 Reference
 
-        Python Cheat Sheet.pdf
+[Python Cheat Sheet.pdf](https://github.com/MychoTormes/ECE2112_PA1/blob/main/Python%20Cheat%20Sheet.pdf)
 
 ## 💻 EMOTICON PROBLEM: 
 Create a function that changes specific words into emoticons. Given a sentence
@@ -90,7 +90,7 @@ All the codes are done in this file.
 
 ### 📍 Reference
 
-        Python Cheat Sheet.pdf
+[Python Cheat Sheet.pdf](https://github.com/MychoTormes/ECE2112_PA1/blob/main/Python%20Cheat%20Sheet.pdf)
 
 
 ## 💻 UNPACKING LIST PROBLEM: 
@@ -131,7 +131,7 @@ All the codes are done in this file.
 
 ### 📍 Reference
 
-        Python Cheat Sheet.pdf
+[Python Cheat Sheet.pdf](https://github.com/MychoTormes/ECE2112_PA1/blob/main/Python%20Cheat%20Sheet.pdf)
 
 ### All of the answers for the Programming Assignment are made by Mycho Tormes
 
