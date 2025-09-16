@@ -31,7 +31,7 @@ The Steps:
 ### 📌 Files
 All the codes are done in this file.
 
-        AlphabetSoup.ipynb
+[AlphabetSoup.ipynb](https://github.com/MychoTormes/ECE2112_PA1/blob/main/AlphabetSoup.ipynb)
           
 ### 📍 Reference
 
